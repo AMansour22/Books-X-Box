@@ -24,11 +24,11 @@ const Shop = () => {
               </p>
             </h5>
             <p className="font-normal text-gray-700 dark:text-gray-400 mb-4">
-              <p>
-              Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.
-              </p>
+              
             </p>
-            <button className='bg-blue-700 font-semibold text-white py-2 rounded'>Buy Now</button>
+            <a href="https://www.goodreads.com/" className='bg-blue-700 font-semibold text-white py-2 rounded inline-block text-center'>
+              Buy Now
+          </a>
           </Card>)
         }
         </div>
